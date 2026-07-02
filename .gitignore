@@ -1,0 +1,52 @@
+# ======================
+# Dependencies
+# ======================
+**/node_modules/
+backend/node_modules/
+payment-frontend/node_modules/
+
+# ======================
+# Environment Variables
+# ======================
+backend/.env
+payment-frontend/.env
+payment-frontend/.env.local
+*.env
+
+# ======================
+# Build Output
+# ======================
+payment-frontend/dist/
+backend/dist/
+build/
+
+# ======================
+# Logs
+# ======================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# ======================
+# OS Files
+# ======================
+.DS_Store
+Thumbs.db
+
+# ======================
+# VS Code
+# ======================
+.vscode/
+
+# ======================
+# Cache
+# ======================
+.cache/
+coverage/
+
+# ======================
+# Misc
+# ======================
+*.pid
