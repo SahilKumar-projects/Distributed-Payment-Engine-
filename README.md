@@ -285,7 +285,7 @@ npm install
 Frontend
 
 ```bash
-cd frontend
+cd payment-frontend
 npm install
 ```
 
@@ -354,30 +354,56 @@ http://localhost:5173
 
 ---
 
+## Screenshots
 
-# Screenshots
+### Payment Process UI
 
-<img src="./assets/paymentProcessUI.JPG" alt="Payment Process UI" width="100%">
-
-<br><br>
-
-<img src="./assets/chaosModeUI.jpg" alt="Chaos Mode" width="100%">
-
-<br><br>
-
-<img src="./assets/distributedSystemLogsUI.JPG" alt="Distributed System Logs" width="100%">
+<p align="center">
+  <img src="./assets/paymentProcessUI.JPG" alt="Payment Process UI" width="80%">
+</p>
 
 <br><br>
 
-<img src="./assets/paymentUi.JPG" alt="Payment UI" width="100%">
+### Chaos Mode
+
+<p align="center">
+  <img src="./assets/chaosModeUI.JPG" alt="Chaos Mode" width="80%">
+</p>
 
 <br><br>
 
-<img src="./assets/systemObservabilityUI.JPG" alt="System Observability" width="100%">
+### Distributed System Logs
+
+<p align="center">
+  <img src="./assets/distributedSystemLogsUI.JPG" alt="Distributed System Logs" width="80%">
+</p>
 
 <br><br>
 
-<img src="./assets/recieptUI.JPG" alt="Receipt" width="100%">
+### Payment UI
+
+<p align="center">
+  <img src="./assets/paymentUi.JPG" alt="Payment UI" width="80%">
+</p>
+
+<br><br>
+
+### System Observability
+
+<p align="center">
+  <img src="./assets/systemObservabilityUI.JPG" alt="System Observability" width="80%">
+</p>
+
+<br><br>
+
+### Payment Receipt
+
+<p align="center">
+  <img src="./assets/recieptUI.JPG" alt="Payment Receipt" width="80%">
+</p>
+
+
+
 
 
 
